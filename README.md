@@ -27,6 +27,3 @@ Run the test suite with:
 dotnet test
 ```
 
-For more information about the project architecture and guidelines, see the
-[`Documentation`](Documentation) directory.
-
